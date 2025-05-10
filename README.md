@@ -21,9 +21,9 @@ The analysis focuses on identifying trends and disparities in debt across differ
 - Regional differences in debt composition
 - Areas of potential economic vulnerability based on debt type
 
-## Tools & Technologies
+## Tools
 
 - **Data Source**:  IMF
 - Excel, Power query
-- 
+
 
